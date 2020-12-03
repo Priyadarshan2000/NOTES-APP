@@ -8,6 +8,8 @@
 # Editing Page
 ![image](https://user-images.githubusercontent.com/62868878/100964569-f4759580-354e-11eb-822a-f66b5469e5f7.png)
 
-# Delete
+# Delete Popup Message show
 ![image](https://user-images.githubusercontent.com/62868878/100964553-ee7fb480-354e-11eb-9794-b7bf695e328a.png)
+
+# Thank you............
 
